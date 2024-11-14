@@ -13,5 +13,5 @@ The dataset includes 4 files, and each file is for one kind of object. Please do
 Please cite our papers if the dataset is useful for you. Thank you!
 
 1. Y. Long, Y. Gong, Z. Xiao and Q. Liu, "Accurate Object Localization in Remote Sensing Images Based on Convolutional Neural Networks," in IEEE Transactions on Geoscience and Remote Sensing, vol. 55, no. 5, pp. 2486-2498, May 2017. doi: 10.1109/TGRS.2016.2645610, [link](http://ieeexplore.ieee.org/abstract/document/7827088/)
-2. Z Xiao, Q Liu, G Tang, X Zhai, "Elliptic Fourier transformation-based histograms of oriented gradients for rotationally invariant object detection in remote-sensing images", International Journal of Remote Sensing, vol. 36, no. 2, 2015
+2. Z Xiao, Q Liu, G Tang, X Zhai, "Elliptic Fourier transformation-based histograms of oriented gradients for rotationally invariant object detection in remote-sensing images", International Journal of Remote Sensing, vol. 36, no. 2, 2015. doi: 10.1080/01431161.2014.999881
 
